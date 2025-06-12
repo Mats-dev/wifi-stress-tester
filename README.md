@@ -2,7 +2,6 @@
 
 **Created:** 2025-06-12 18:46:05 CEST (UTC+2)  
 **Author:** Mats-dev  
-**Location:** Belgium
 
 ## ⚠️ IMPORTANT DISCLAIMER
 
